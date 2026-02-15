@@ -1,3 +1,3 @@
 public class LoginController {
-    public static String a = "abccf";
+    public static String a = "zzz";
 }
